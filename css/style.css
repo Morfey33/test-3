@@ -1,0 +1,22 @@
+h1 {
+  color: rgb(0, 125, 75);
+}
+.avatar {
+  width: 400px;
+  height: 500px;
+}
+.wrapper {
+  margin: 0 auto;
+  width: 1200px;
+  padding: 0 10px;
+}
+.container {
+  display: flex;
+  gap: 30px;
+}
+a {
+  color: inherit;
+}
+ul {
+  list-style: none;
+}
